@@ -1,0 +1,33 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "bin": "./dist/main.js",
+  "scripts": {
+    "demo": "nodemon --exec ts-node src/main.ts --watch src -e ts ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blake",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bluebird": "^3.5.29",
+    "@types/intercept-stdout": "^0.1.0",
+    "@types/redis": "^2.8.14",
+    "@types/shelljs": "^0.8.6",
+    "async-redis": "^1.1.7",
+    "awk": "^1.0.0",
+    "axios": "^0.19.0",
+    "bluebird": "^3.7.1",
+    "bluebird-ts": "^1.0.0",
+    "commander": "^4.0.1",
+    "intercept-stdout": "^0.1.2",
+    "linq": "^3.2.1",
+    "log4js": "^6.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.7",
+    "ts-node": "^8.5.2"
+  }
+}

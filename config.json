@@ -1,0 +1,17 @@
+{
+    "Dict": {
+        "DictUrlList": [
+            "http://dict.youdao.com/search"
+        ],
+        "awkScript": "./scripts/handleParse.awk",
+        "tmpHtml":  "./temp/tmpHtml.txt",
+        "AwkTmp":   "./temp/awk.tmp",
+        "DictTmp":  "./temp/Dict.tmp",
+        "WordDir":  "./word",
+        "DefaultFile": "word.txt"
+    },
+    "CCConfig": {
+        "RedisAddr": "42.159.157.100:20337",
+        "Password": "123456"
+    }
+}
