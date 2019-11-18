@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-                                            
+                                                
       
 
 								<html xmlns="http://www.w3.org/1999/xhtml" class="ua-unknown ua-unknown ua-other ua-unknown">
@@ -8,15 +8,15 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     
-<meta name="keywords" content="hello"/>
+<meta name="keywords" content="world"/>
 
-<title>【hello】什么意思_英语hello的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
+<title>【world】什么意思_英语world的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
 <link rel="shortcut icon" href="https://shared-https.ydstatic.com/images/favicon.ico" type="image/x-icon"/>
 
 
 <link href="https://shared.ydstatic.com/dict/v2016/result/160621/result-min.css" rel="stylesheet" type="text/css"/>
 <link href="https://shared.ydstatic.com/dict/v2016/result/pad.css" media="screen and (orientation: portrait), screen and (orientation: landscape)" rel="stylesheet" type="text/css">
-<link rel="canonical" href="http://dict.youdao.com/w/hello/"/>
+<link rel="canonical" href="http://dict.youdao.com/w/world/"/>
 <link rel="search" type="application/opensearchdescription+xml" title="Yodao Dict" href="plugins/search-provider.xml"/>
 <script type='text/javascript' src='https://shared.ydstatic.com/js/jquery/jquery-1.8.2.min.js'></script>
 </head>
@@ -31,7 +31,7 @@
                         <div class="c-sust">
                                                 
 
-                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dhello%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
+                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dworld%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
                             </div>
         </div>
         <div class="c-header">
@@ -42,7 +42,7 @@
                     <input type="hidden" id="le" name="le" value="eng" />
                 </div>
                 <span class="s-inpt-w">
-                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="hello"/>
+                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="world"/>
                     <input type="hidden" name="tab" value=""/>
                     <input type="hidden" name="keyfrom" value="dict2.top"/>
                     <span id="hnwBtn" class="hand-write"></span>
@@ -89,44 +89,36 @@
                             <div id="results-contents" class="results-content">
                                                           
                                                             
-                                                     	 
+                                                         	 
 
 
    
  
   					
 <div id="phrsListTab" class="trans-wrapper clearfix">
-                            <h2 class="wordbook-js">
-        <span class="keyword">hello</span>
+                            <div class="img-list">
+        <a><img src="http://oimageb5.ydstatic.com/image?url=http%3A%2F%2Fwww.freeworldmaps.net%2Fprintable%2Fsimple-printable-world-map.png&product=PICDICT_RD" alt="" data-link="http://oimageb5.ydstatic.com/image?url=http%3A%2F%2Fwww.freeworldmaps.net%2Fprintable%2Fsimple-printable-world-map.png&product=PICDICT_RD" data-site=""></a>
+</div>
+
+                    <h2 class="wordbook-js">
+        <span class="keyword">world</span>
                             <div class="baav">
                             <span class="pronounce">英
-                                    <span class="phonetic">[həˈləʊ]</span>
-                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                    <span class="phonetic">[wɜːld]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="world&type=1" data-4log="dict.basic.ec.uk.voice"></a>
                                 </span>
                                       <span class="pronounce">美
-                                    <span class="phonetic">[helˈō]</span>
-                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                    <span class="phonetic">[wɜːrld]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="world&type=2" data-4log="dict.basic.ec.us.voice"></a>
                                 </span>
                                   </div>
             </h2>
              <div class="trans-container">
 
    <ul>
-     <li>int. 喂；哈罗</li>
-     <li>n. 表示问候， 惊奇或唤起注意时的用语</li>
-     <li>n. (Hello)人名；(法)埃洛</li>
+     <li>n. 世界；领域；世俗；全人类；物质生活</li>
     </ul>
-              <p class="additional">[
-                    复数
-        hellos或helloes
-                     过去式
-        helloed
-                     过去分词
-        helloed
-                     现在分词
-        helloing
-                   ]</p>
-      </div>
+    </div>
     </div>
                           
 
@@ -138,8 +130,8 @@
         <span class="tabs"> 
                 
                 
-        
-                                                <a rel="#tWebTrans"><span>网络释义</span></a><a rel="#tEETrans"><span>英英释义</span></a>
+                
+                                                <a rel="#tWebTrans"><span>网络释义</span></a><a rel="#tPETrans"><span>专业释义</span></a><a rel="#tEETrans"><span>英英释义</span></a>
         </span>
         <a class="toggle toggleOpen" rel="#webTransToggle"></a>
  </h3>
@@ -153,140 +145,342 @@
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                你好</span>
+                世界</span>
     </div>
     <p class="collapse-content">
-    ...月一次都没赢的记实,当然，斗地主单靠技术没有任何用处(Usefulness)，斗地主(Landlords)这款游戏完全就是赌博，上天对<b>你好</b>(<b>Hello</b>)即使技术比不过超级高手，你还是会赢……</p>
-            <p class="collapse-content via">基于1222个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Hello+%E4%BD%A0%E5%A5%BD&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    ...矮人要塞包括了一个类rogue的冒险模式，以及一个像地下城守护者一样的城市管理游戏。无论你想玩哪一种，你必须先生成你的游戏<b>世界</b>。这个<b>世界</b>会持续发展，直到你重新创造一个新的<b>世界</b>。生成<b>世界</b>（<b>world</b> generation）即使在主流电脑上也非常耗时，但请耐心，这绝对值得。</p>
+            <p class="collapse-content via">基于3201个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=World+%E4%B8%96%E7%95%8C&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                您好</span>
+                界</span>
     </div>
     <p class="collapse-content">
-    我只是问下，是不是有这么个规定(Provision)Nikco: <b>您好</b>(<b>Hello</b>)，如果(If)联赛的盘口出现错误，我们是会取消该赛事的投注的是的，身份证: 我没有说盘口的缺点是的，身份证(ID): 就是说原来甲级...</p>
-            <p class="collapse-content via">基于733个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Hello+%E6%82%A8%E5%A5%BD&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    ...网络解释 1. Bloody 画面显出世<b>界</b>(<b>World</b>)末日般的黑暗，而不少镜头血腥(Bloody)且残酷：大蛇将魔法学校的老师(Teacher)作为晚餐，对着银幕张开血盆大口，似向观众扑面而来...</p>
+            <p class="collapse-content via">基于862个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=World+%E7%95%8C&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                哈啰</span>
+                天下</span>
     </div>
     <p class="collapse-content">
-    中国好声音金池曾遭车祸 金池台湾老公资料 金池生活照曝光 金池，歌声里有十年的音乐故事。 ... Against All Odds（不计成败） <b>Hello</b>（<b>哈啰</b>） Remember The Time（铭记此刻） ...</p>
-            <p class="collapse-content via">基于292个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Hello+%E5%93%88%E5%95%B0&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    精彩， 这样的事 <b>天下</b>(<b>World</b>)就你一个人(Personal)是真正的在做,,,,,真正的反赌大师</p>
+            <p class="collapse-content via">基于672个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=World+%E5%A4%A9%E4%B8%8B&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                喂</span>
+                世上</span>
     </div>
     <p class="collapse-content">
-    <b>Hello</b>（<b>喂</b>，哈罗） <b>Hello</b>是英语中颇具代表性的招呼语，也是在国外打电话时的通用语。</p>
-            <p class="collapse-content via">基于152个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Hello+%E5%96%82&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    太贪了，偶尔都是死了后才了解懊悔，但<b>世上</b>(<b>World</b>)是没有后悔药的，如果你知道自己的遗产可以用来造福人群，你愿意捐出大部分，而只留给子孙一小部分吗？</p>
+            <p class="collapse-content via">基于530个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=World+%E4%B8%96%E4%B8%8A&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
             <div id="webPhrase" class="pr-container more-collapse">
     <div class="title">短语</div>
        <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_kitty/#keyfrom=dict.phrase.wordgroup">Hello Kitty</a></span>
-                          凯蒂猫
+      <span class="contentTitle"><a class="search-js" href="/w/eng/world_war/#keyfrom=dict.phrase.wordgroup">world war</a></span>
+                    	   	   <span class=gray>[军]</span>
+                   世界大战
                       ;
-                  昵称
+                  第一次世界大战
                       ;
-                  吉蒂猫
+                  僵尸世界大战
                       ;
-                  匿称
+                  末日之战
               </p>
            <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_bebe/#keyfrom=dict.phrase.wordgroup">Hello Bebe</a></span>
-                          哈乐哈乐
+      <span class="contentTitle"><a class="search-js" href="/w/eng/my_world/#keyfrom=dict.phrase.wordgroup">My World</a></span>
+                          我的小小世界
                       ;
-                  乐扣乐扣
+                  我的世界
+                      ;
+                  自一方
+                      ;
+                  自己的世界
               </p>
            <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_android/#keyfrom=dict.phrase.wordgroup">Hello Android</a></span>
-                          创建
+      <span class="contentTitle"><a class="search-js" href="/w/eng/another_world/#keyfrom=dict.phrase.wordgroup">Another World</a></span>
+                          另一个世界
                       ;
-                  创立
+                  柏原崇
                       ;
-                  建立
+                  异世界
                       ;
-                  程序
+                  另一世界
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_neighbor/#keyfrom=dict.phrase.wordgroup">Hello Neighbor</a></span>
-                          你好邻居
+      <span class="contentTitle"><a class="search-js" href="/w/eng/world_record/#keyfrom=dict.phrase.wordgroup">World Record</a></span>
+                          世界纪录
                       ;
-                  你好
-              </p>
-           <p class="wordGroup collapse">
-  
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_english/#keyfrom=dict.phrase.wordgroup">Hello English</a></span>
-                          学英语
+                  世界之最
                       ;
-                  律动欢唱学英语
+                  创世记
                       ;
-                  海勒国际英语
+                  世界记载
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_schoolgirl/#keyfrom=dict.phrase.wordgroup">Hello Schoolgirl</a></span>
-                          纯情漫画
-              </p>
-           <p class="wordGroup collapse">
-  
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_yellow/#keyfrom=dict.phrase.wordgroup">Hello Yellow</a></span>
-                          浅草黄
+      <span class="contentTitle"><a class="search-js" href="/w/eng/world_map/#keyfrom=dict.phrase.wordgroup">World Map</a></span>
+                          世界地图
                       ;
-                  这草黄色
+                  全世界电子地图
+                      ;
+                  地界地图
+                      ;
+                  世界舆图
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_booky/#keyfrom=dict.phrase.wordgroup">Hello Booky</a></span>
-                          布奇乐乐园
+      <span class="contentTitle"><a class="search-js" href="/w/eng/third_world/#keyfrom=dict.phrase.wordgroup">Third World</a></span>
+                          第三世界
+                      ;
+                  表演者
+                      ;
+                  第三世界国家
+                      ;
+                  什么意思及同义词
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/hello_murder/#keyfrom=dict.phrase.wordgroup">Hello Murder</a></span>
-                          愉快的杀人者
+      <span class="contentTitle"><a class="search-js" href="/w/eng/world_championship/#keyfrom=dict.phrase.wordgroup">World Championship</a></span>
+                          世界锦标赛
+                      ;
+                  世锦赛
+                      ;
+                  世界冠军赛
+                      ;
+                  全球总决赛
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/star_world/#keyfrom=dict.phrase.wordgroup">STAR World</a></span>
+                          卫视合家欢台
+                      ;
+                  卫星国际台
+                      ;
+                  卫视合家欢
+                      ;
+                  卫视国际台
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/cube_world/#keyfrom=dict.phrase.wordgroup">Cube World</a></span>
+                          方块世界
+                      ;
+                  魔方世界
+                      ;
+                  立方体世界
+                      ;
+                  电子火柴人
               </p>
    
    <div class="more"><a href="#" class="sp more_sp">&nbsp;</a><span class="show_more">更多</span><span
    class="show_less">收起</span>网络短语</div>
 </div> <!-- close webPhrase Tag -->
     </div>
+            <div id="tPETrans" class="trans-container tab-content">
+                <div id="tPETrans-type-list" class="type-list">
+                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">经济学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_1" hidefocus="true">法学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_2" hidefocus="true">计算机科学技术</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_3" hidefocus="true">地球科学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_4" hidefocus="true">新闻学与传播学</a>
+                        </div>
+        <ul id="tPETrans-all-trans" class="all-trans">
+                    <li class="ptype_0 types" style="display:list-item">
+                                    <div class="items">
+                    <span class="title">世界</span>
+                                            <span class="additional"> - 引用次数：18738</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Ideology is defined as a set of beliefs about the <b>world</b>.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">意识形态是对于<b>世界</b>看法的一套信念。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://ckrd.cnki.net/grid20/GetInfoByDOI.aspx?DOI=CNKI:SUN:JWDP.0.2008-08-007" rel="nofollow">发达国家的意识形态与公司所有权结构 </a>
+                                                            </div>
+                    </li>
+                            <li class="ptype_1 types">
+                                    <div class="items">
+                    <span class="title">世界</span>
+                                            <span class="additional"> - 引用次数：9448</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The economic crimes is a serious social issue in the <b>world</b>.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">经济犯罪是当今<b>世界</b>一个严重的社会问题。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.591-lw.com/article.php?r_id=233027" rel="nofollow">论我国经济犯罪资格刑刑种的增设（研究生论文）</a>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">天下</span>
+                                            <span class="additional"> - 引用次数：51</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The government implements the administrative discrimination, like making clear the <b>world</b> that the equal principle may not observe.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">政府实施行政歧视，无异于昭示<b>天下</b>：平等原则是可以不遵守的。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.591-lw.com/article.php?r_id=242939" rel="nofollow">论对行政歧视的司法审查（研究生论文）</a>
+                                                            </div>
+                    </li>
+                            <li class="ptype_2 types">
+                                    <div class="items">
+                    <span class="title">世界</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_3 types">
+                                    <div class="items">
+                    <span class="title">世界</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_4 types">
+                                    <div class="items">
+                    <span class="title">世界画报</span>
+                                                        </div>
+                    </li>
+                </ul>
+    <p class="additional"><span class="middot">&middot;</span>2,447,543篇论文数据，部分数据来源于<a target="_blank" href="http://www.inoteexpress.com/" rel="nofollow">NoteExpress</a></p>
+            </div>
                             <div id="tEETrans" class="trans-container tab-content">
                 <div class="trans-container">
 <!--eng eng result start-->
     <h4>
-        hello
-            <span class= "phonetic">[ he'ləu, hə- ]</span>
+        world
         </h4>
     <ul>
 		
 		
 				        <li>
 		<span class="pos">n.</span>
-                                    		
-			    		        			
-            		                                		    <span class="def">an expression of greeting</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">everything that exists anywhere</span>
 
 						
-																				        				<p><em>&quot;every morning they exchanged polite hellos&quot;</em></p>
 						
 									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/hullo/?tab=eng#keyfrom=dict.eesy'>hullo</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/hi/?tab=eng#keyfrom=dict.eesy'>hi</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/howdy/?tab=eng#keyfrom=dict.eesy'>howdy</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/how-do-you-do/?tab=eng#keyfrom=dict.eesy'>how-do-you-do</a>
+								                                  				    <a class="search-js" href='/w/universe/?tab=eng#keyfrom=dict.eesy'>universe</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/existence/?tab=eng#keyfrom=dict.eesy'>existence</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/creation/?tab=eng#keyfrom=dict.eesy'>creation</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/cosmos/?tab=eng#keyfrom=dict.eesy'>cosmos</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/macrocosm/?tab=eng#keyfrom=dict.eesy'>macrocosm</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">all of your experiences that determine how things appear to you</span>
+
+						
+																				        													        				<p><em>&quot;his world was shattered&quot;; &quot; we live in different worlds&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/reality/?tab=eng#keyfrom=dict.eesy'>reality</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">people in general; especially a distinctive group of people with some shared interest</span>
+
+						
+																				        				<p><em>&quot;the Western world&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/domain/?tab=eng#keyfrom=dict.eesy'>domain</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">the 3rd planet from the sun; the planet we live on</span>
+
+						
+																				        				<p><em>&quot;he sailed around the world&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/Earth/?tab=eng#keyfrom=dict.eesy'>Earth</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/globe/?tab=eng#keyfrom=dict.eesy'>globe</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">the concerns of this life as distinguished from heaven and the afterlife</span>
+
+						
+																				        				<p><em>&quot;they consider the church to be independent of the world&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/worldly_concern/?tab=eng#keyfrom=dict.eesy'>worldly concern</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/earthly_concern/?tab=eng#keyfrom=dict.eesy'>earthly concern</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/earth/?tab=eng#keyfrom=dict.eesy'>earth</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">a part of the earth that can be considered separately</span>
+
+						
+																				        													        				<p><em>&quot;the outdoor world&quot;; &quot; the world of insects&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">people in general considered as a whole</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/populace/?tab=eng#keyfrom=dict.eesy'>populace</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/public/?tab=eng#keyfrom=dict.eesy'>public</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">all of the living human inhabitants of the earth</span>
+
+						
+																				        				<p><em>&quot;all the world loves a lover&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/human_race/?tab=eng#keyfrom=dict.eesy'>human race</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/humanity/?tab=eng#keyfrom=dict.eesy'>humanity</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/humankind/?tab=eng#keyfrom=dict.eesy'>humankind</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/human_beings/?tab=eng#keyfrom=dict.eesy'>human beings</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/humans/?tab=eng#keyfrom=dict.eesy'>humans</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/mankind/?tab=eng#keyfrom=dict.eesy'>mankind</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/man/?tab=eng#keyfrom=dict.eesy'>man</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		                      </ul>
+            </li>
+    
+				        <li>
+		<span class="pos">adj.</span>
+                                    		
+			    		        			
+            		                                		    <span class="def">involving the entire earth; not limited or provincial in scope</span>
+
+						
+																				        													        				<p><em>&quot;a world crisis&quot;; &quot; of worldwide significance&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/global/?tab=eng#keyfrom=dict.eesy'>global</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/planetary/?tab=eng#keyfrom=dict.eesy'>planetary</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/worldwide/?tab=eng#keyfrom=dict.eesy'>worldwide</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/world-wide/?tab=eng#keyfrom=dict.eesy'>world-wide</a>
 				    				    				      				    				      				    				                                      				 			    	</p>
 			                                         		                                  </li>
      </ul>
@@ -323,15 +517,14 @@
                                     <div class="collinsToggle trans-container">
 				                                                            <div class="wt-container">
                                                                                                 <h4>
-                                <span class="title">hello</span>
-                                                                    <em class="additional spell phonetic">/hɛˈləʊ/</em>
-                                                                                                                                            <span class="star star3" title="使用频率"></span>
-                                                                                                                <span class="additional pattern">(also hullo)</span>
-                                    								                                
+                                <span class="title">world</span>
+                                                                    <em class="additional spell phonetic">/wɜːld/</em>
+                                                                                                                                            <span class="star star5" title="使用频率"></span>
+                                                                        								                                
                                                                                                                                                                                 <span class="via rank">CET4 TEM4</span>
                                                                                                     
                                                                                                     <span class="additional pattern">(
-                                                                                                                            												hellos
+                                                                                                                            												worlds
                                                                                                                                                                         )</span>
 																
 							</h4>
@@ -347,16 +540,15 @@
     											    											    													<div class="collinsMajorTrans">
                                                             <span class="collinsOrder">1.&nbsp;</span>
                                                             <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
-    																    															    														    														You say "<b>Hello</b>" to someone when you meet them. 你好 (打招呼用语)
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														<b>The world</b> is the planet that we live on. 地球
     														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                                        											<span class="additional">[套语]</span>
-                                                                    													                                                                </p></div>
+                        										                                                                    													                                                                </p></div>
                                                                                                                                                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> Hello, Trish. I won't shake hands, because I'm filthy. </p>
-                                                                            <p>你好，特里斯。我就不握手了，我的手好脏。</p>
+                                                                            <p> The satellite enables us to calculate their precise location anywhere in the world. </p>
+                                                                            <p>这颗卫星使得我们可以计算他们在地球上的任何准确位置。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         											</li>
@@ -365,15 +557,22 @@
     											    											    													<div class="collinsMajorTrans">
                                                             <span class="collinsOrder">2.&nbsp;</span>
                                                             <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
-    																    															    														    														<b>Hello</b> is also a noun. 招呼
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														<b>The</b><b>world</b> refers to all the people who live on this planet, and our societies, institutions, and ways of life. 世人
     														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
                         										                                                                    													                                                                </p></div>
                                                                                                                                                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> The salesperson greeted me with a warm hello. </p>
-                                                                            <p>那位推销员向我打了个热情的招呼。</p>
+                                                                            <p> The world was, and remains, shocked. </p>
+                                                                            <p>世人震惊了，并且仍然震惊。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> He wants to show the world that anyone can learn to be an ambassador. </p>
+                                                                            <p>他想向世人展示，任何人都能够学做一名大使。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         											</li>
@@ -382,16 +581,16 @@
     											    											    													<div class="collinsMajorTrans">
                                                             <span class="collinsOrder">3.&nbsp;</span>
                                                             <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
-    																    															    														    														You say "<b>Hello</b>" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                                        											<span class="additional">[套语]</span>
-                                                                    													                                                                </p></div>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="形容词">ADJ</span>
+    																    															    														    														You can use <b>world</b> to describe someone or something that is one of the most important or significant of its kind on earth. 世界性的
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">[ADJ n]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
                                                                                                                                                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> A moment later, Cohen picked up the phone. "Hello?" </p>
-                                                                            <p>一会儿之后，科恩拿起电话。“喂？”</p>
+                                                                            <p> China has once again emerged as a world power. </p>
+                                                                            <p>中国再次成为一个世界性的强国。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         											</li>
@@ -400,18 +599,205 @@
     											    											    													<div class="collinsMajorTrans">
                                                             <span class="collinsOrder">4.&nbsp;</span>
                                                             <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
-    																    															    														    														You can call "<b>hello</b>" to attract someone's attention. 喂 (用于唤起别人注意)
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														You can use <b>world</b> in expressions such as <b>the Arab world</b>, <b>the Western world</b>, and <b>the ancient world</b> to refer to a particular group of countries or a particular period in history. 世界 (指某些国家或时期)
     														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
                         										                                                                    													                                                                </p></div>
                                                                                                                                                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> Very softly, she called out: "Hello? Who's there?" </p>
-                                                                            <p>她很轻柔地喊道：“喂？谁在那儿？”</p>
+                                                                            <p> Athens had strong ties to the Arab world. </p>
+                                                                            <p>雅典与阿拉伯世界有着紧密的联系。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">5.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
+    																    															    														    														Someone's <b>world</b> is the life they lead, the people they have contact with, and the things they experience. 生活世界; 生活圈子
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> His world seemed so different from mine. </p>
+                                                                            <p>他的生活圈子与我的似乎是那么的不同。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">6.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														You can use <b>world</b> to refer to a particular field of activity, and the people involved in it. 界
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The publishing world had certainly never seen an event quite like this. </p>
+                                                                            <p>出版界当然从未见过类似这样的事情。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">7.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														You can use <b>world</b> to refer to a particular group of living things, for example, <b>the animal world</b>, <b>the plant world</b>, and <b>the insect world</b>. (某生物) 界
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> When it comes to dodging disaster, the champions of the insect world have to be cockroaches. </p>
+                                                                            <p>谈到躲避灾难，昆虫界的冠军非蟑螂莫属。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">8.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    														
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															    																&rarr;
+                                                                                                                                                                                                                see also
+                                                                        																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/real world/?keyfrom=dict.collins" target="_blank">real world</a>,
+    																			    																			    																			    																		    																	    																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/Third World/?keyfrom=dict.collins" target="_blank">Third World</a>
+    																			    																			    																			    																		    																	    																    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">9.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														If you say that someone has <b>the best of both worlds</b>, you mean that they have only the benefits of two things and none of the disadvantages. 两全其美
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Her living room provides the best of both worlds, with an office at one end and comfortable sofas at the other. </p>
+                                                                            <p>她的起居室两全其美，一端是个办公室，另一端有舒服的沙发。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">10.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														If you say that something <b>has done</b> someone <b>a world of good</b>, you mean that it has made them feel better or improved their life. 对…大有好处
+    														    														    															    															                                                                        															    															    															    															    															    															    																<span class="additional">[非正式]</span>
+    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Just sit for a while and relax. It will do you a world of good. </p>
+                                                                            <p>就坐一会儿，放松放松。这将对你大有好处。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">11.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														You can use <b>in the world</b> in expressions such as <b>what in the world</b> and <b>who in the world</b> to emphasize a question, especially when expressing surprise or anger. 到底 (表示强调)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                                        											<span class="additional">[强调]</span>
+                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> What in the world is he doing? </p>
+                                                                            <p>他到底在干什么呢？</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">12.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														You can use <b>in an ideal world</b> or <b>in a perfect world</b> when you are talking about things that you would like to happen, although you realize that they are not likely to happen. 在理想状态下
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> In an ideal world Karen Stevens says she would love to stay at home with her two-and-half-year-old son. </p>
+                                                                            <p>卡林·斯蒂芬斯说，她愿意和两岁半的儿子待在家里，但那只是理想状态。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">13.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														You can use <b>the outside world</b> to refer to all the people who do not live in a particular place or who are not involved in a particular situation. 外界
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> For many, the post office is the only link with the outside world. </p>
+                                                                            <p>对许多人来说，邮局是与外界联系的惟一纽带。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">14.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    															not be the end of the world
+    														    														    														
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                    &rarr;see 
+                        											                                                                                                                                                                                                                                                                                                                                                                                                        														                        															<a style="text-decoration: none;" class="search-js" href="/w/end/?keyfrom=dict.collins" target="_blank">end</a>
+                        														                        														                        														                                                                                                    												                                                                        															                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">15.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    															the world is your oyster
+    														    														    														
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                    &rarr;see 
+                        											                                                                                                                                                                                                                                                                                                                                                                                                        														                        															<a style="text-decoration: none;" class="search-js" href="/w/oyster/?keyfrom=dict.collins" target="_blank">oyster</a>
+                        														                        														                        														                                                                                                    												                                                                        															                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">16.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    															on top of the world
+    														    														    														
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                    &rarr;see 
+                        											                                                                                                                                                                                                                                                                                                                                                                                                        														                        															<a style="text-decoration: none;" class="search-js" href="/w/top/?keyfrom=dict.collins" target="_blank">top</a>
+                        														                        														                        														                                                                                                    												                                                                        															                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
 										                                							</ul>
 																													</div>
 							</div>
@@ -423,44 +809,191 @@
                                         <div id="eTransform" class="trans-wrapper trans-tab"> 
             <h3>
                 <span class="tabs">
-                                                                                                                                <a rel="#wordGroup"><span>词组短语</span></a><a rel="#synonyms"><span>同近义词</span></a>
+                                                                                                                                                                <a rel="#wordGroup"><span>词组短语</span></a><a rel="#synonyms"><span>同近义词</span></a><a rel="#relWordTab"><span>同根词</span></a><a rel="#discriminate"><span>词语辨析</span></a>
                 </span>
                 <a class="toggle toggleOpen" rel="#transformToggle"></a>
             </h3>
             <div id="transformToggle">
                                     <div id="wordGroup" class="trans-container tab-content hide more-collapse">
                                                                     <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/say_hello/#keyfrom=dict.basic.wordgroup">say hello</a></span>
-                                                                                打招呼；问好
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/in_the_world/#keyfrom=dict.basic.wordgroup">in the world</a></span>
+                                                                                在世界上；到底
                                                 </p>
                                                                         <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/hello_everyone/#keyfrom=dict.basic.wordgroup">hello everyone</a></span>
-                                                                                大家好
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/around_the_world/#keyfrom=dict.basic.wordgroup">around the world</a></span>
+                                                                                世界各地；全世界；环游世界
                                                 </p>
                                                                         <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/hello_and_welcome/#keyfrom=dict.basic.wordgroup">hello and welcome</a></span>
-                                                                                欢迎莅临
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/all_over_the_world/#keyfrom=dict.basic.wordgroup">all over the world</a></span>
+                                                                                adv. 全世界
                                                 </p>
                                                                         <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/hello_again/#keyfrom=dict.basic.wordgroup">hello again</a></span>
-                                                                                回魂妻（电影名称）
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_cup/#keyfrom=dict.basic.wordgroup">world cup</a></span>
+                                                                                n. 世界杯
                                                 </p>
-            </div>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_war/#keyfrom=dict.basic.wordgroup">world war</a></span>
+                                                                                世界大战
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_economy/#keyfrom=dict.basic.wordgroup">world economy</a></span>
+                                                                                [经]世界经济
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/outside_world/#keyfrom=dict.basic.wordgroup">outside world</a></span>
+                                                                                外部世界
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_trade/#keyfrom=dict.basic.wordgroup">world trade</a></span>
+                                                                                世界贸易
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/new_world/#keyfrom=dict.basic.wordgroup">new world</a></span>
+                                                                                新世界（指西半球或南、北美洲及其附近岛屿）
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/real_world/#keyfrom=dict.basic.wordgroup">real world</a></span>
+                                                                                现实世界；真正的世界
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/throughout_the_world/#keyfrom=dict.basic.wordgroup">throughout the world</a></span>
+                                                                                全世界
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_war_ii/#keyfrom=dict.basic.wordgroup">world war ii</a></span>
+                                                                                第二次世界大战
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_bank/#keyfrom=dict.basic.wordgroup">world bank</a></span>
+                                                                                n. 世界银行
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/for_the_world/#keyfrom=dict.basic.wordgroup">for the world</a></span>
+                                                                                （否定句内）无论如何；（肯定句内）每一方面都…
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_peace/#keyfrom=dict.basic.wordgroup">world peace</a></span>
+                                                                                世界和平
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_trade_organization/#keyfrom=dict.basic.wordgroup">world trade organization</a></span>
+                                                                                世界贸易组织（产生于关贸总协定的乌拉圭谈判， 其目的是为促进多边贸易谈判和协议而成立的。）
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_market/#keyfrom=dict.basic.wordgroup">world market</a></span>
+                                                                                世界市场
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/second_world/#keyfrom=dict.basic.wordgroup">second world</a></span>
+                                                                                第二世界
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/world_health_organization/#keyfrom=dict.basic.wordgroup">world health organization</a></span>
+                                                                                世界卫生组织
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/a_world_of/#keyfrom=dict.basic.wordgroup">a world of</a></span>
+                                                                                很多；极大的
+                                                </p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+<span class="show_more">更多</span><span
+class="show_less">收起</span>词组短语
+</div>
+</div>
                                                     <div id="synonyms" class="trans-container tab-content hide">
 <ul>
-  <li>int. 喂；哈罗</li>
+  <li>n. 世界；领域；宇宙；世俗；全人类；物质生活</li>
  <p class="wordGroup">
      <span class="contentTitle">
-     <a class="search-js" href="/w/eng/hallo/#keyfrom=dict.basic.syno">hallo</a>
+     <a class="search-js" href="/w/eng/universe/#keyfrom=dict.basic.syno">universe</a>
       ,
      </span>
    <span class="contentTitle">
-     <a class="search-js" href="/w/eng/holloo/#keyfrom=dict.basic.syno">holloo</a>
+     <a class="search-js" href="/w/eng/domain/#keyfrom=dict.basic.syno">domain</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/province/#keyfrom=dict.basic.syno">province</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/territory/#keyfrom=dict.basic.syno">territory</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/kingdom/#keyfrom=dict.basic.syno">kingdom</a>
      </span>
   </p>
 </ul>
 </div>
-                                                            </div>
+                                                    <div id="relWordTab" class="trans-container tab-content hide">
+    <p class="wordGroup">
+        词根：
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/world/#keyfrom=dict.basic.relword">world</a>
+        </span>
+   </p>
+        adj.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/worldly/#keyfrom=dict.basic.relword">worldly</a>
+        </span>
+         世俗的；世间的；尘世的
+        </p>
+                  adv.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/worldly/#keyfrom=dict.basic.relword">worldly</a>
+        </span>
+         世俗地；世故地
+        </p>
+                  n.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/worldliness/#keyfrom=dict.basic.relword">worldliness</a>
+        </span>
+         俗气；世俗心；世故；物欲
+        </p>
+              </div>
+                                                    <div id="discriminate" class="trans-container tab-content hide">
+                <div class="wt-container">
+    
+        <div class="title" style="position:static;">
+      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
+                                                                            <span>earth, globe, world</span>
+    </div>
+
+                                                                    
+          <div class="collapse-content">
+                                                                      <p>这组词都有“地球”的意思，其区别是：</p>
+                                                                                  <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/earth/#keyfrom=dict.basic.discriminate">earth</a>
+                  </span>
+                                                                              指表面有陆地和水，人类所居住行星的名字。有时与“天”相对，泛指“地”。</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/globe/#keyfrom=dict.basic.discriminate">globe</a>
+                  </span>
+                                                                              指我们生活的地球，但强调其实体和圆形。</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/world/#keyfrom=dict.basic.discriminate">world</a>
+                  </span>
+                                                                              通常相当于earth与globe，现多用指地球，地球上的世界，社会和人。</p>
+                                                                                            </div>
+                                                                                                                                              <p class="via">
+          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html rel="nofollow">网络</a>
+          </p>
+              </div>
+        </div>
+  </div>
+                            </div>
         </div>
     
                                                                         <!--例句选项卡 begin-->
@@ -477,44 +1010,44 @@
                                      
                             
                                                                                                                 <li>
-                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')"><b>Hello</b></span><span>, </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_6')" onmouseout="unhlgt('#src_0_1,#tran_0_6')">what</span><span> </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">can</span><span> </span><span id="src_0_3" onmouseover="hlgt('#src_0_3,#tran_0_1')" onmouseout="unhlgt('#src_0_3,#tran_0_1')">I</span><span> </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_5')" onmouseout="unhlgt('#src_0_4,#tran_0_5')">do</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_3')" onmouseout="unhlgt('#src_0_5,#tran_0_3')">for</span><span> </span><span id="src_0_6" onmouseover="hlgt('#src_0_6,#tran_0_4')" onmouseout="unhlgt('#src_0_6,#tran_0_4')">you</span><span>?</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Hello%2C+what+can+I+do+for+you%3F&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">Our</span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')"><b>world</b></span><span> </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_3')" onmouseout="unhlgt('#src_0_2,#tran_0_3')">is</span><span> </span><span id="src_0_3" onmouseover="hlgt('#src_0_3,#tran_0_2')" onmouseout="unhlgt('#src_0_3,#tran_0_2')">but</span><span> </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_6')" onmouseout="unhlgt('#src_0_4,#tran_0_6')">a small</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_7')" onmouseout="unhlgt('#src_0_5,#tran_0_7')">part</span><span> </span><span id="src_0_6" onmouseover="hlgt('#src_0_6,#tran_0_5')" onmouseout="unhlgt('#src_0_6,#tran_0_5')">of the</span><span> </span><span id="src_0_7" onmouseover="hlgt('#src_0_7,#tran_0_4')" onmouseout="unhlgt('#src_0_7,#tran_0_4')">cosmos</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Our+world+is+but+a+small+part+of+the+cosmos.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">你好</span><span>，</span><span id="tran_0_1" onmouseover="hlgt('#src_0_3,#tran_0_1')" onmouseout="unhlgt('#src_0_3,#tran_0_1')">我</span><span id="tran_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">可以</span><span id="tran_0_3" onmouseover="hlgt('#src_0_5,#tran_0_3')" onmouseout="unhlgt('#src_0_5,#tran_0_3')">为</span><span id="tran_0_4" onmouseover="hlgt('#src_0_6,#tran_0_4')" onmouseout="unhlgt('#src_0_6,#tran_0_4')">你</span><span id="tran_0_5" onmouseover="hlgt('#src_0_4,#tran_0_5')" onmouseout="unhlgt('#src_0_4,#tran_0_5')">做</span><span id="tran_0_6" onmouseover="hlgt('#src_0_1,#tran_0_6')" onmouseout="unhlgt('#src_0_1,#tran_0_6')">些什么</span><span>？</span>
+                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">我们</span><span>的</span><span id="tran_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')">世界</span><span id="tran_0_2" onmouseover="hlgt('#src_0_3,#tran_0_2')" onmouseout="unhlgt('#src_0_3,#tran_0_2')">仅仅</span><span id="tran_0_3" onmouseover="hlgt('#src_0_2,#tran_0_3')" onmouseout="unhlgt('#src_0_2,#tran_0_3')">是</span><span id="tran_0_4" onmouseover="hlgt('#src_0_7,#tran_0_4')" onmouseout="unhlgt('#src_0_7,#tran_0_4')">宇宙</span><span id="tran_0_5" onmouseover="hlgt('#src_0_6,#tran_0_5')" onmouseout="unhlgt('#src_0_6,#tran_0_5')">的</span><span id="tran_0_6" onmouseover="hlgt('#src_0_4,#tran_0_6')" onmouseout="unhlgt('#src_0_4,#tran_0_6')">一小</span><span id="tran_0_7" onmouseover="hlgt('#src_0_5,#tran_0_7')" onmouseout="unhlgt('#src_0_5,#tran_0_7')">部分</span><span>而已。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://www.hxlocker.com/e_116244.html" target=_blank rel="nofollow">www.hxlocker.com</a>
+                                                    <a href="http://www.eeeen.com/meiwen/meiwen/sh44752.html" target=_blank rel="nofollow">www.eeeen.com</a>
                                             </p>
                 </li>
                                        
                             
                                                                                                                 <li>
-                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')"><b>Hello</b></span><span>, </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_5')" onmouseout="unhlgt('#src_1_1,#tran_1_5')">what</span><span> </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">can</span><span> </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_1')" onmouseout="unhlgt('#src_1_3,#tran_1_1')">I</span><span> </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_4')" onmouseout="unhlgt('#src_1_4,#tran_1_4')">do</span><span> for </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_3')" onmouseout="unhlgt('#src_1_5,#tran_1_3')">you</span><span>?</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Hello%2C+what+can+I+do+for+you%3F&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_4')" onmouseout="unhlgt('#src_1_0,#tran_1_4')">The</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_5')" onmouseout="unhlgt('#src_1_1,#tran_1_5')"><b>world</b></span><span> </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_6')" onmouseout="unhlgt('#src_1_2,#tran_1_6')">exists</span><span>, </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_0')" onmouseout="unhlgt('#src_1_3,#tran_1_0')">whether</span><span> </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_1')" onmouseout="unhlgt('#src_1_4,#tran_1_1')">you</span><span> </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_2')" onmouseout="unhlgt('#src_1_5,#tran_1_2')">like</span><span> </span><span id="src_1_6" onmouseover="hlgt('#src_1_6,#tran_1_3')" onmouseout="unhlgt('#src_1_6,#tran_1_3')">it or not</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="The+world+exists%2C+whether+you+like+it+or+not.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">你好</span><span>，</span><span id="tran_1_1" onmouseover="hlgt('#src_1_3,#tran_1_1')" onmouseout="unhlgt('#src_1_3,#tran_1_1')">我</span><span id="tran_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">能为</span><span id="tran_1_3" onmouseover="hlgt('#src_1_5,#tran_1_3')" onmouseout="unhlgt('#src_1_5,#tran_1_3')">你</span><span id="tran_1_4" onmouseover="hlgt('#src_1_4,#tran_1_4')" onmouseout="unhlgt('#src_1_4,#tran_1_4')">做</span><span id="tran_1_5" onmouseover="hlgt('#src_1_1,#tran_1_5')" onmouseout="unhlgt('#src_1_1,#tran_1_5')">些什么</span><span>?。</span>
+                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_3,#tran_1_0')" onmouseout="unhlgt('#src_1_3,#tran_1_0')">不管</span><span id="tran_1_1" onmouseover="hlgt('#src_1_4,#tran_1_1')" onmouseout="unhlgt('#src_1_4,#tran_1_1')">你</span><span id="tran_1_2" onmouseover="hlgt('#src_1_5,#tran_1_2')" onmouseout="unhlgt('#src_1_5,#tran_1_2')">喜欢</span><span id="tran_1_3" onmouseover="hlgt('#src_1_6,#tran_1_3')" onmouseout="unhlgt('#src_1_6,#tran_1_3')">与否</span><span>，</span><span id="tran_1_4" onmouseover="hlgt('#src_1_0,#tran_1_4')" onmouseout="unhlgt('#src_1_0,#tran_1_4')">这个</span><span id="tran_1_5" onmouseover="hlgt('#src_1_1,#tran_1_5')" onmouseout="unhlgt('#src_1_1,#tran_1_5')">世界</span><span id="tran_1_6" onmouseover="hlgt('#src_1_2,#tran_1_6')" onmouseout="unhlgt('#src_1_2,#tran_1_6')">照样存在</span><span>。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://www.51jzb.net/forum/read-32622-8.html" target=_blank rel="nofollow">www.51jzb.net</a>
+                                                    <a href="http://www.8875.org/ren-jiao-ban-gao-zhong-ying-yu-bi-xiu-wu" target=_blank rel="nofollow">www.8875.org</a>
                                             </p>
                 </li>
                                        
                             
                                                                                                                 <li>
-                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">Till the</span><span> </span><span id="src_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">day</span><span> </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">I</span><span> </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">let</span><span> </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')">you</span><span> </span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">go</span><span>, </span><span id="src_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">Until</span><span> </span><span id="src_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">we</span><span> </span><span id="src_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8')" onmouseout="unhlgt('#src_2_8,#tran_2_8')">say</span><span> </span><span id="src_2_9" onmouseover="hlgt('#src_2_9,#tran_2_9')" onmouseout="unhlgt('#src_2_9,#tran_2_9')">our</span><span> </span><span id="src_2_10" onmouseover="hlgt('#src_2_10,#tran_2_10')" onmouseout="unhlgt('#src_2_10,#tran_2_10')">next</span><span> </span><span id="src_2_11" onmouseover="hlgt('#src_2_11,#tran_2_11')" onmouseout="unhlgt('#src_2_11,#tran_2_11')"><b>hello</b></span><span> </span><span id="src_2_12" onmouseover="hlgt('#src_2_12,#tran_2_12')" onmouseout="unhlgt('#src_2_12,#tran_2_12')">its</span><span> </span><span id="src_2_13" onmouseover="hlgt('#src_2_13,#tran_2_13')" onmouseout="unhlgt('#src_2_13,#tran_2_13')">not</span><span> </span><span id="src_2_14" onmouseover="hlgt('#src_2_14,#tran_2_14')" onmouseout="unhlgt('#src_2_14,#tran_2_14')">goodbye</span><span>.</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Till+the+day+I+let+you+go%2C+Until+we+say+our+next+hello+its+not+goodbye.&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">We</span><span> </span><span id="src_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">reckon</span><span> </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">him</span><span> to </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">be</span><span> the </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_5')" onmouseout="unhlgt('#src_2_4,#tran_2_5')">best</span><span> </span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_6')" onmouseout="unhlgt('#src_2_5,#tran_2_6')">goalkeeper</span><span> in the </span><span id="src_2_6" onmouseover="hlgt('#src_2_6,#tran_2_4')" onmouseout="unhlgt('#src_2_6,#tran_2_4')"><b>world</b></span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="We+reckon+him+to+be+the+best+goalkeeper+in+the+world.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">直到</span><span id="tran_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">一天</span><span>，</span><span id="tran_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">我</span><span id="tran_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">让</span><span id="tran_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')">你</span><span id="tran_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">去</span><span>，</span><span id="tran_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">直到</span><span id="tran_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">我们</span><span id="tran_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8')" onmouseout="unhlgt('#src_2_8,#tran_2_8')">说</span><span id="tran_2_9" onmouseover="hlgt('#src_2_9,#tran_2_9')" onmouseout="unhlgt('#src_2_9,#tran_2_9')">我们</span><span id="tran_2_10" onmouseover="hlgt('#src_2_10,#tran_2_10')" onmouseout="unhlgt('#src_2_10,#tran_2_10')">下次</span><span id="tran_2_11" onmouseover="hlgt('#src_2_11,#tran_2_11')" onmouseout="unhlgt('#src_2_11,#tran_2_11')">你好</span><span id="tran_2_12" onmouseover="hlgt('#src_2_12,#tran_2_12')" onmouseout="unhlgt('#src_2_12,#tran_2_12')">它</span><span id="tran_2_13" onmouseover="hlgt('#src_2_13,#tran_2_13')" onmouseout="unhlgt('#src_2_13,#tran_2_13')">不再</span><span id="tran_2_14" onmouseover="hlgt('#src_2_14,#tran_2_14')" onmouseout="unhlgt('#src_2_14,#tran_2_14')">见</span><span>。</span>
+                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">我们</span><span id="tran_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">认为</span><span id="tran_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">他</span><span id="tran_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">是</span><span id="tran_2_4" onmouseover="hlgt('#src_2_6,#tran_2_4')" onmouseout="unhlgt('#src_2_6,#tran_2_4')">世界上</span><span id="tran_2_5" onmouseover="hlgt('#src_2_4,#tran_2_5')" onmouseout="unhlgt('#src_2_4,#tran_2_5')">最好的</span><span id="tran_2_6" onmouseover="hlgt('#src_2_5,#tran_2_6')" onmouseout="unhlgt('#src_2_5,#tran_2_6')">足球守门员</span><span>。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://danci.911cha.com/let%252FI%252FDAY.html" target=_blank rel="nofollow">danci.911cha.com</a>
+                                                    <a href="http://danci.911cha.org/to+reckon.html" target=_blank rel="nofollow">danci.911cha.org</a>
                                             </p>
                 </li>
-                                                                                           </ul>
-                        <a class="more-example" href="/example/blng/eng/hello/#keyfrom=dict.main.moreblng" title="hello的双语例句">更多双语例句</a>
+                                       </ul>
+                        <a class="more-example" href="/example/blng/eng/world/#keyfrom=dict.main.moreblng" title="world的双语例句">更多双语例句</a>
                     </div>
          
                 <!-- Media Result Start -->
@@ -523,70 +1056,63 @@
          <ul class="ol">
                                                             
                     	       <li>
-           <p>And see? I'm close enough to say, '<b>Hello</b>, good looking!'" Actress Betty Furness was commercial spokeswoman for Westinghouse.
-                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=-7151753065787129619" data-4log="dict.main.pureaudio"></a>
+           <p>Now his work has earned him this year's <b>World</b> Food Prize from the <b>World</b> Food Prize Foundation in Des Moines,Iowa.
+                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=4699310259310190344" data-4log="dict.main.pureaudio"></a>
                       </p>
                                      <p class="via">
-                          VOA: special.2011.07.21
+                          VOA: special.2009.06.16
                           </p>
                        </li>
 
                                                                        
                               
                      <li>
-	       <p>So if you haven't already, just glance at the person next to you, or say <b>hello</b> if you don't know them.<br></p>
-           	       <p>如果你还没有做好，那就看看你旁边的人,如果你不认识他们就跟他们打个招呼。<br></p>
+	       <p>So the nature of the <b>world</b>, post-cold war <b>world</b> is increasingly one about competition for markets, govern of one nation's markets.<br></p>
+           	       <p>因此冷战之后，市场的竞争,成为世界的主题，一国市场的管理，如果事实如此。<br></p>
                       
                                 <div class="video">
-                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-1145882516289734313&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-1145882516289734313" alt="哈佛公开课中出现hello的视频截图" title="哈佛公开课的相关视频,点击播放" rel="nofollow">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-8415293547182634781&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-8415293547182634781" alt="麻省理工公开课中出现world的视频截图" title="麻省理工公开课的相关视频,点击播放" rel="nofollow">
            <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
            </a>
            <a href="#" class="close" style="display: none;"></a>
           </div>
-            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/cs50.html' target=_blank rel="nofollow">哈佛公开课 - 计算机科学课程节选</a></p>
+            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/education.html' target=_blank rel="nofollow">麻省理工公开课 - 媒体、教育、市场课程节选</a></p>
             	        	     </li>
                                                              
                               
                      <li>
-	       <p>But I think the more you meet people, here it's, the more you say <b>hello</b>, the more it's familiar.<br></p>
-           	       <p>但我想，你见的人越多，你说的“你好”越多，你就会越发熟悉这一切的。<br></p>
+	       <p>That is to say, it is subservient to the natural <b>world</b>; its importance is that it refers to that <b>world</b>.<br></p>
+           	       <p>也就是说，这些学科都是自然世界的奴仆;,它们存在的价值就是去解释那个自然世界。<br></p>
                       
                                 <div class="video">
-                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-516693558806550685&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-516693558806550685" alt="和纽约的留学生中出现hello的视频截图" title="和纽约的留学生的相关视频,点击播放" rel="nofollow">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-8659059349934261861&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-8659059349934261861" alt="耶鲁公开课中出现world的视频截图" title="耶鲁公开课的相关视频,点击播放" rel="nofollow">
            <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
            </a>
            <a href="#" class="close" style="display: none;"></a>
           </div>
-            		    <p class="example-via"><a href='http://www.speakingmax.cn/clip/NewYork/3/2/dictation-64' target=_blank rel="nofollow">和纽约的留学生 - SpeakingMax英语口语达人</a></p>
+            		    <p class="example-via"><a href='http://v.163.com/special/introductiontotheoryofliterature/' target=_blank rel="nofollow">耶鲁公开课 - 文学理论导论课程节选</a></p>
             	        	     </li>
                             </ul>
-                    <a class="more-example" href="/example/mdia/hello/#keyfrom=dict.main.moremedia" title="hello的原声例句">更多原声例句</a>
+                    <a class="more-example" href="/example/mdia/world/#keyfrom=dict.main.moremedia" title="world的原声例句">更多原声例句</a>
                   </div>
         
                 
                 <div id="authority" class="trans-container  tab-content">
                   <ul class="ol">
                              <li>
-           <p>And I also want to say a special <b>hello</b> to Diane for her wonderful remarks. 
-                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="And+I+also+want+to+say+a+special+hello+to+Diane+for+her+wonderful+remarks.+" data-4log="dict.main.moreauth"></a>
+           <p>The Mobile International segment covers the following sub segments: Germany, Belgium, and Rest of the <b>World</b>. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="The+Mobile+International+segment+covers+the+following+sub+segments%3A+Germany%2C+Belgium%2C+and+Rest+of+the+World.+" data-4log="dict.main.moreauth"></a>
            </p>
-           <p class="example-via"><a href="http://www.whitehouse.gov/the-press-office/2012/08/01/remarks-first-lady-campaign-event-0" target=_blank rel="nofollow">WHITEHOUSE: <i>Remarks by the First Lady at a Campaign Event</i></a></p>
+           <p class="example-via"><a href="http://www.forbes.com/companies/kpn" target=_blank rel="nofollow">FORBES: <i>#954 KPN</i></a></p>
            </li>
                                       <li>
-           <p><b>Hello</b>, I am just responding to the article "Don't Marry Career Women" by Michael Noer. 
-                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Hello%2C+I+am+just+responding+to+the+article+%22Don%27t+Marry+Career+Women%22+by+Michael+Noer.+" data-4log="dict.main.moreauth"></a>
+           <p>To contain polio, hospitals confined children like Tenley, allowing only minimal contact with the outside <b>world</b>. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="To+contain+polio%2C+hospitals+confined+children+like+Tenley%2C+allowing+only+minimal+contact+with+the+outside+world.+" data-4log="dict.main.moreauth"></a>
            </p>
-           <p class="example-via"><a href="http://www.forbes.com/forbes/2006/0918/028a_20.html" target=_blank rel="nofollow">FORBES: <i>Readers Say</i></a></p>
+           <p class="example-via"><a href="http://www.newsweek.com/sports?page=22" target=_blank rel="nofollow">NEWSWEEK: <i>Sports</i></a></p>
            </li>
-                                      <li>
-           <p>This despite the euro-zone crisis, as ASOS sales were bolstered by its international <b>(hell</b>o America) sales. 
-                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="This+despite+the+euro-zone+crisis%2C+as+ASOS+sales+were+bolstered+by+its+international+%28hello+America%29+sales.+" data-4log="dict.main.moreauth"></a>
-           </p>
-           <p class="example-via"><a href="http://www.forbes.com/sites/lydiadishman/2012/09/27/hms-gamble-to-delay-u-s-e-commerce-wont-pay-off/" target=_blank rel="nofollow">FORBES: <i>H&M's Gamble to Delay U.S. E-Commerce Won't Pay Off</i></a></p>
-           </li>
-                                                               </ul>
-                   <a class="more-example" href="/example/auth/hello/#keyfrom=dict.main.moreauth" title="hello的权威例句">更多权威例句</a>
-                   </div>
+                           </ul>
+                  </div>
             </div>
 </div>
 <!--例句选项卡 end-->
@@ -600,22 +1126,90 @@
           <p class="hd">词组短语</p>
       <div id="wordGroup2" class="trans-container tab-content hide more-collapse">
                                                                                                         <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/say_hello/#keyfrom=dict.basic.wordgroup">say hello</a></span>
-                                                                                                        打招呼；问好
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/in_the_world/#keyfrom=dict.basic.wordgroup">in the world</a></span>
+                                                                                                        在世界上；到底
                                                                   </p>
                                                                                                             <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/hello_everyone/#keyfrom=dict.basic.wordgroup">hello everyone</a></span>
-                                                                                                        大家好
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/around_the_world/#keyfrom=dict.basic.wordgroup">around the world</a></span>
+                                                                                                        世界各地；全世界；环游世界
                                                                   </p>
                                                                                                             <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/hello_and_welcome/#keyfrom=dict.basic.wordgroup">hello and welcome</a></span>
-                                                                                                        欢迎莅临
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/all_over_the_world/#keyfrom=dict.basic.wordgroup">all over the world</a></span>
+                                                                                                        adv. 全世界
                                                                   </p>
                                                                                                             <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/hello_again/#keyfrom=dict.basic.wordgroup">hello again</a></span>
-                                                                                                        回魂妻（电影名称）
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_cup/#keyfrom=dict.basic.wordgroup">world cup</a></span>
+                                                                                                        n. 世界杯
                                                                   </p>
-                                      </div>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_war/#keyfrom=dict.basic.wordgroup">world war</a></span>
+                                                                                                        世界大战
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_economy/#keyfrom=dict.basic.wordgroup">world economy</a></span>
+                                                                                                        [经]世界经济
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/outside_world/#keyfrom=dict.basic.wordgroup">outside world</a></span>
+                                                                                                        外部世界
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_trade/#keyfrom=dict.basic.wordgroup">world trade</a></span>
+                                                                                                        世界贸易
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/new_world/#keyfrom=dict.basic.wordgroup">new world</a></span>
+                                                                                                        新世界（指西半球或南、北美洲及其附近岛屿）
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/real_world/#keyfrom=dict.basic.wordgroup">real world</a></span>
+                                                                                                        现实世界；真正的世界
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/throughout_the_world/#keyfrom=dict.basic.wordgroup">throughout the world</a></span>
+                                                                                                        全世界
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_war_ii/#keyfrom=dict.basic.wordgroup">world war ii</a></span>
+                                                                                                        第二次世界大战
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_bank/#keyfrom=dict.basic.wordgroup">world bank</a></span>
+                                                                                                        n. 世界银行
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/for_the_world/#keyfrom=dict.basic.wordgroup">for the world</a></span>
+                                                                                                        （否定句内）无论如何；（肯定句内）每一方面都…
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_peace/#keyfrom=dict.basic.wordgroup">world peace</a></span>
+                                                                                                        世界和平
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_trade_organization/#keyfrom=dict.basic.wordgroup">world trade organization</a></span>
+                                                                                                        世界贸易组织（产生于关贸总协定的乌拉圭谈判， 其目的是为促进多边贸易谈判和协议而成立的。）
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_market/#keyfrom=dict.basic.wordgroup">world market</a></span>
+                                                                                                        世界市场
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/second_world/#keyfrom=dict.basic.wordgroup">second world</a></span>
+                                                                                                        第二世界
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/world_health_organization/#keyfrom=dict.basic.wordgroup">world health organization</a></span>
+                                                                                                        世界卫生组织
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/a_world_of/#keyfrom=dict.basic.wordgroup">a world of</a></span>
+                                                                                                        很多；极大的
+                                                                  </p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+        <span class="show_more">更多</span><span
+        class="show_less">收起</span>词组短语
+        </div>
+              </div>
         </div>
   <div id="baidu-adv"></div>
   
@@ -751,7 +1345,7 @@
 var _rlog = _rlog || [];
 _rlog.push(["_setAccount" , "dictweb"]);
 _rlog.push(["_addPost" , "page" , "search"]);
-_rlog.push(["_addPost" , "q" , "hello"]);
+_rlog.push(["_addPost" , "q" , "world"]);
 </script>
 <script defer src="https://shared.ydstatic.com/js/rlog/v1.js"></script>
 <!-- START NetEase Devilfish 2006 -->
