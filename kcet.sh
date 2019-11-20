@@ -7,7 +7,7 @@ cat > ${CMD} <<EOF
 #!/bin/bash
 option=\$1
 filename=\$2
-vesion='1.0.0'
+vesion='1.1.0'
 kcetv(){
     echo \$vesion
 }
@@ -19,12 +19,17 @@ kceth(){
     echo "        Print version and exit."
     echo "    -H  -help"
     echo "        Print help message and exit."
+    echo "    -A  -example"
+    echo "        Show the example for word"
     echo "    -C  -copy"
     echo "        Back up files that have already been prepared"
     echo "    -M  -Mkdir"
     echo "        Back up the file and save it to a new folder"
     echo "    -B  -batch"
     echo "        translate batch words by the wordfile of the word dir."
+}
+kceta(){
+    yd \$option \$filename
 }
 kcetc(){
     a=\$2;
@@ -58,6 +63,9 @@ case \${option} in
         ;;
     -h)
         kceth
+        ;;
+    -a)
+        kceta
         ;;
     -c)
         kcetc
