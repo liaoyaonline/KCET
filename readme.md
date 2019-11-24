@@ -9,7 +9,9 @@
 ## 下载安装
 ```cpp
 git clone https://github.com/soimort/translate-shell.git
-sudo bash linux_fanyi.sh
+sudo bash build.sh//安装或者安装后自动测试
+cd test
+sudo bash test.sh//测试
 ```
 ## 运行
 ```cpp

@@ -1,0 +1,228 @@
+<div id="phrsListTab" class="trans-wrapper clearfix">
+                            <h2 class="wordbook-js">
+        <span class="keyword">hello</span>
+                            <div class="baav">
+                            <span class="pronounce">英
+                                    <span class="phonetic">[həˈləʊ]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                </span>
+                                      <span class="pronounce">美
+                                    <span class="phonetic">[helˈō]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                </span>
+                                  </div>
+            </h2>
+             <div class="trans-container">
+
+   <ul>
+     <li>int. 喂；哈罗</li>
+     <li>n. 表示问候， 惊奇或唤起注意时的用语</li>
+     <li>n. (Hello)人名；(法)埃洛</li>
+    </ul>
+                                    <div class="collinsToggle trans-container">
+				                                                            <div class="wt-container">
+                                                                                                <h4>
+                                <span class="title">hello</span>
+                                                                    <em class="additional spell phonetic">/hɛˈləʊ/</em>
+                                                                                                                                            <span class="star star3" title="使用频率"></span>
+                                                                                                                <span class="additional pattern">(also hullo)</span>
+                                    								                                
+                                                                                                                                                                                <span class="via rank">CET4 TEM4</span>
+                                                                                                    
+                                                                                                    <span class="additional pattern">(
+                                                                                                                            												hellos
+                                                                                                                                                                        )</span>
+																
+							</h4>
+																												
+																							                                																																																																																																																								
+																 
+															
+																																																																																			
+					
+					    													<ul class="ol">
+																	
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">1.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You say "<b>Hello</b>" to someone when you meet them. 你好 (打招呼用语)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                                        											<span class="additional">[套语]</span>
+                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Hello, Trish. I won't shake hands, because I'm filthy. </p>
+                                                                            <p>你好，特里斯。我就不握手了，我的手好脏。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">2.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
+    																    															    														    														<b>Hello</b> is also a noun. 招呼
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The salesperson greeted me with a warm hello. </p>
+                                                                            <p>那位推销员向我打了个热情的招呼。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">3.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You say "<b>Hello</b>" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                                        											<span class="additional">[套语]</span>
+                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> A moment later, Cohen picked up the phone. "Hello?" </p>
+                                                                            <p>一会儿之后，科恩拿起电话。“喂？”</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">4.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You can call "<b>hello</b>" to attract someone's attention. 喂 (用于唤起别人注意)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Very softly, she called out: "Hello? Who's there?" </p>
+                                                                            <p>她很轻柔地喊道：“喂？谁在那儿？”</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                							</ul>
+<div id="phrsListTab" class="trans-wrapper clearfix">
+                            <h2 class="wordbook-js">
+        <span class="keyword">hello</span>
+                            <div class="baav">
+                            <span class="pronounce">英
+                                    <span class="phonetic">[həˈləʊ]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                </span>
+                                      <span class="pronounce">美
+                                    <span class="phonetic">[helˈō]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="hello&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                </span>
+                                  </div>
+            </h2>
+             <div class="trans-container">
+
+   <ul>
+     <li>int. 喂；哈罗</li>
+     <li>n. 表示问候， 惊奇或唤起注意时的用语</li>
+     <li>n. (Hello)人名；(法)埃洛</li>
+    </ul>
+                                    <div class="collinsToggle trans-container">
+				                                                            <div class="wt-container">
+                                                                                                <h4>
+                                <span class="title">hello</span>
+                                                                    <em class="additional spell phonetic">/hɛˈləʊ/</em>
+                                                                                                                                            <span class="star star3" title="使用频率"></span>
+                                                                                                                <span class="additional pattern">(also hullo)</span>
+                                    								                                
+                                                                                                                                                                                <span class="via rank">CET4 TEM4</span>
+                                                                                                    
+                                                                                                    <span class="additional pattern">(
+                                                                                                                            												hellos
+                                                                                                                                                                        )</span>
+																
+							</h4>
+																												
+																							                                																																																																																																																								
+																 
+															
+																																																																																			
+					
+					    													<ul class="ol">
+																	
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">1.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You say "<b>Hello</b>" to someone when you meet them. 你好 (打招呼用语)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                                        											<span class="additional">[套语]</span>
+                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Hello, Trish. I won't shake hands, because I'm filthy. </p>
+                                                                            <p>你好，特里斯。我就不握手了，我的手好脏。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">2.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
+    																    															    														    														<b>Hello</b> is also a noun. 招呼
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The salesperson greeted me with a warm hello. </p>
+                                                                            <p>那位推销员向我打了个热情的招呼。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">3.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You say "<b>Hello</b>" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                                        											<span class="additional">[套语]</span>
+                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> A moment later, Cohen picked up the phone. "Hello?" </p>
+                                                                            <p>一会儿之后，科恩拿起电话。“喂？”</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">4.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习惯表达">CONVENTION</span>
+    																    															    														    														You can call "<b>hello</b>" to attract someone's attention. 喂 (用于唤起别人注意)
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Very softly, she called out: "Hello? Who's there?" </p>
+                                                                            <p>她很轻柔地喊道：“喂？谁在那儿？”</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                							</ul>
