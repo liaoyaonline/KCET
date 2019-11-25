@@ -1,4 +1,0 @@
-2 this is a test
-3 are you like awk
-this's a test
-10 there are orange,apple,mongo
