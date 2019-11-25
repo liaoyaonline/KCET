@@ -37,6 +37,8 @@ kcetc(){
     c="chinese"\$filename".txt"
     cp english.txt \$b
     cp chinese.txt \$c
+    rm english.txt
+    rm chinese.txt
 }
 kcetm(){
     a=\$filename;
@@ -46,9 +48,10 @@ kcetm(){
     rm english*.txt
     rm chinese*.txt
     if [ ! -d "./history" ];then
-        mkdir history
+        mkdir ./history
     fi
-    cp \$a history
+    cp -r \$a ./history
+    rm -r \$a
 }
 kcet(){
     var=\$(yd \$option)

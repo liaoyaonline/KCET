@@ -5,12 +5,12 @@ build(){
 }
 
 test(){
-    sudo bash ./tst/kcettest.sh
+    sudo bash ./test/kcettest.sh
 }
 main(){
     build
     echo "KCET installation is successful, you can enter kcet -h to get help"
     echo "The next step is to test"
-    #test
+    test
 }
 main

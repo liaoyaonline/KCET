@@ -9,9 +9,7 @@
 ## 下载安装
 ```cpp
 git clone https://github.com/soimort/translate-shell.git
-sudo bash build.sh//安装或者安装后自动测试
-cd test
-sudo bash test.sh//测试
+sudo bash install.sh
 ```
 ## 运行
 ```cpp
@@ -31,8 +29,11 @@ Information options:
 ```
 ## 用例
 ```cpp
-./kcet.sh hello                       //翻译hello
-./kcet.sh -c ONEQ              //将文件进行备份，新文件的名字为englishONEQ
-./kcet.sh -m 20170601     //将文件备份到文件夹里面，文件夹的名字为20170601
-./kcet.sh -b           //将english.txt里面的所有单词翻译为中文输出到chinese.txt
+kcet -h         //提供帮助包括对参数的说明
+kcet -v         //显示版本号
+kcet hello     //翻译hello
+kcet -a hello  //翻译hello，并且显示用例
+kcet -c ONEQ              //将文件进行备份，新文件的名字为englishONEQ
+kcet -m 20170601     //创建一个文件夹20170601将所有翻译好的文件复制过去，然后将文件夹20170601放入history文件夹里面
+kcet -b           //将english.txt里面的所有单词翻译为中文输出到chinese.txt
 ```
