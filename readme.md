@@ -11,7 +11,7 @@
 ## 下载安装
 
 ```cpp
-git clone https://github.com/soimort/translate-shell.git
+git clone git@github.com:liaoyaonline/KCET.git
 sudo bash install.sh
 ```
 ## 运行
